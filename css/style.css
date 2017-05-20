@@ -1,16 +1,19 @@
+
+
 body {
-	background-color: rgba(255, 255, 255, 1); /* white */
-	color: rgba(40, 40, 40, 1); /* black */
-	font-family: 'Jaldi', sans-serif; /* main text */
-	font-size: 30px;
+   background-color:#001f3f; 
+   color:;
+   font-family: 'Jaldi', sans-serif; 
+   font-size: 30px;
 }
+
 input {
 	font-size: 20px;
 	padding: .25em .5em;
 }
 
 .container-header {
-	background-color: rgba(40, 40, 40, .9);
+	background-color:#0074D9;
 	background: linear-gradient(to right, rgba(40, 40, 40, .5), rgba(80, 80, 80, .5));
 }
 
@@ -37,7 +40,7 @@ input {
 }
 
 .circle2 {
- 	background-color: rgba(255, 255, 255, 1);
+ 	background-color:white;
  	height: 4em;
  	width: 4em;
  	display: inline-block;
@@ -71,7 +74,7 @@ input {
 	padding: calc((4em - 40px)/2) 0 0 2.25em;
 }
 .circle1 {
-	background-color: rgba(40, 40, 40, 1);
+	background-color:#7FDBFF;
 	height: 4em;
 	width: 4em;
 	display: inline-block;
@@ -86,7 +89,7 @@ input {
 	float: right;
 }
 .btn-search {
-	background-color: rgba(40, 40, 40, 1);
+	background-color:#39CCCC;
 	color: rgba(255, 255, 255, 1);
 	border: none;
 	height: 38px;
@@ -134,7 +137,7 @@ input {
 	}
 }
 .btn-gif {
-	background-color: rgba(40, 40, 40, .8);
+	background-color:#001f3f;
 	color: rgba(255, 255, 255, 1);
 }
 .col-gif {
